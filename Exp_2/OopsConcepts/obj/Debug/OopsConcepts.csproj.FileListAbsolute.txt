@@ -1,0 +1,7 @@
+D:\.net\Experiment\Exp_2\OopsConcepts\bin\Debug\OopsConcepts.exe.config
+D:\.net\Experiment\Exp_2\OopsConcepts\bin\Debug\OopsConcepts.exe
+D:\.net\Experiment\Exp_2\OopsConcepts\bin\Debug\OopsConcepts.pdb
+D:\.net\Experiment\Exp_2\OopsConcepts\obj\Debug\OopsConcepts.csproj.AssemblyReference.cache
+D:\.net\Experiment\Exp_2\OopsConcepts\obj\Debug\OopsConcepts.csproj.CoreCompileInputs.cache
+D:\.net\Experiment\Exp_2\OopsConcepts\obj\Debug\OopsConcepts.exe
+D:\.net\Experiment\Exp_2\OopsConcepts\obj\Debug\OopsConcepts.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\Experiment\\Exp_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2A201E-ED8D-46B5-85EF-AA04AEF823B1}|OopsConcepts\\OopsConcepts.csproj|D:\\.net\\Experiment\\Exp_2\\oopsconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2A201E-ED8D-46B5-85EF-AA04AEF823B1}|OopsConcepts\\OopsConcepts.csproj|solutionrelative:oopsconcepts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA29CF28-D6F9-4D9F-BC8E-A64D5DBAE3E7}|Exp_2\\Exp_2.csproj|d:\\.net\\experiment\\exp_2\\exp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA29CF28-D6F9-4D9F-BC8E-A64D5DBAE3E7}|Exp_2\\Exp_2.csproj|solutionrelative:exp_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Experiment\\Exp_2\\OopsConcepts\\Program.cs",
+              "RelativeDocumentMoniker": "OopsConcepts\\Program.cs",
+              "ToolTip": "D:\\.net\\Experiment\\Exp_2\\OopsConcepts\\Program.cs",
+              "RelativeToolTip": "OopsConcepts\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA8wCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T07:37:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\Experiment\\Exp_2\\Exp_2\\Program.cs",
+              "RelativeDocumentMoniker": "Exp_2\\Program.cs",
+              "ToolTip": "D:\\.net\\Experiment\\Exp_2\\Exp_2\\Program.cs",
+              "RelativeToolTip": "Exp_2\\Program.cs",
+              "ViewState": "AgIAABQAAACQmZmZmZk1wCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:53:50.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
