@@ -1,0 +1,7 @@
+C:\Users\Veetrag\source\repos\Day1\demo2\bin\Debug\demo2.exe.config
+C:\Users\Veetrag\source\repos\Day1\demo2\bin\Debug\demo2.exe
+C:\Users\Veetrag\source\repos\Day1\demo2\bin\Debug\demo2.pdb
+C:\Users\Veetrag\source\repos\Day1\demo2\obj\Debug\demo2.csproj.AssemblyReference.cache
+C:\Users\Veetrag\source\repos\Day1\demo2\obj\Debug\demo2.csproj.CoreCompileInputs.cache
+C:\Users\Veetrag\source\repos\Day1\demo2\obj\Debug\demo2.exe
+C:\Users\Veetrag\source\repos\Day1\demo2\obj\Debug\demo2.pdb

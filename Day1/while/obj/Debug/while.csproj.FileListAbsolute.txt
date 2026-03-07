@@ -1,0 +1,7 @@
+C:\Users\Veetrag\source\repos\Day1\while\bin\Debug\@while.exe.config
+C:\Users\Veetrag\source\repos\Day1\while\bin\Debug\@while.exe
+C:\Users\Veetrag\source\repos\Day1\while\bin\Debug\@while.pdb
+C:\Users\Veetrag\source\repos\Day1\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\Veetrag\source\repos\Day1\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\Veetrag\source\repos\Day1\while\obj\Debug\@while.exe
+C:\Users\Veetrag\source\repos\Day1\while\obj\Debug\@while.pdb

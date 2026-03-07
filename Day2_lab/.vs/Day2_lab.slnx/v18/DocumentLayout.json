@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\class\\Day2_lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC17EF4-A2D6-4764-9008-5CEA04B4257C}|Class\\Class.csproj|d:\\.net\\class\\day2_lab\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC17EF4-A2D6-4764-9008-5CEA04B4257C}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A154ADB0-FBFF-4D50-B951-80311ED0D2AC}|Day2_lab\\Day2_lab.csproj|d:\\.net\\class\\day2_lab\\day2_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A154ADB0-FBFF-4D50-B951-80311ED0D2AC}|Day2_lab\\Day2_lab.csproj|solutionrelative:day2_lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\class\\Day2_lab\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "Class\\Program.cs",
+              "ToolTip": "D:\\.net\\class\\Day2_lab\\Class\\Program.cs",
+              "RelativeToolTip": "Class\\Program.cs",
+              "ViewState": "AgIAABMAAACgzczMzEwvwB8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:01:11.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\class\\Day2_lab\\Day2_lab\\Program.cs",
+              "RelativeDocumentMoniker": "Day2_lab\\Program.cs",
+              "ToolTip": "D:\\.net\\class\\Day2_lab\\Day2_lab\\Program.cs",
+              "RelativeToolTip": "Day2_lab\\Program.cs",
+              "ViewState": "AgIAACcAAAAANTMzM3M5wDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T14:48:36.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

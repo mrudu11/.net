@@ -1,0 +1,7 @@
+C:\Users\Veetrag\source\repos\Day1\Comparision\bin\Debug\Comparision.exe.config
+C:\Users\Veetrag\source\repos\Day1\Comparision\bin\Debug\Comparision.exe
+C:\Users\Veetrag\source\repos\Day1\Comparision\bin\Debug\Comparision.pdb
+C:\Users\Veetrag\source\repos\Day1\Comparision\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Veetrag\source\repos\Day1\Comparision\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Veetrag\source\repos\Day1\Comparision\obj\Debug\Comparision.exe
+C:\Users\Veetrag\source\repos\Day1\Comparision\obj\Debug\Comparision.pdb

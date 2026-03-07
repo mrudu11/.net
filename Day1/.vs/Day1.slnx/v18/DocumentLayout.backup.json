@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Veetrag\\source\\repos\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546D15F4-DAE0-46AF-A07B-C22846FE0A8D}|while\\while.csproj|c:\\users\\veetrag\\source\\repos\\day1\\while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546D15F4-DAE0-46AF-A07B-C22846FE0A8D}|while\\while.csproj|solutionrelative:while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D3BA14-4FF2-4386-9D9F-CAA62A6B28A5}|switch\\switch.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1D3BA14-4FF2-4386-9D9F-CAA62A6B28A5}|switch\\switch.csproj|solutionrelative:switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349426AF-53E7-46B5-B1A8-434E591BAA05}|ifelse\\ifelse.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349426AF-53E7-46B5-B1A8-434E591BAA05}|ifelse\\ifelse.csproj|solutionrelative:ifelse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE39BEC-A74E-44D2-970C-EE61608B9A19}|Arithmetic\\Arithmetic.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\arithmetic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE39BEC-A74E-44D2-970C-EE61608B9A19}|Arithmetic\\Arithmetic.csproj|solutionrelative:arithmetic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{587B17E4-DA50-4913-9417-995C6AFD4AA6}|Boolean\\Boolean.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\boolean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{587B17E4-DA50-4913-9417-995C6AFD4AA6}|Boolean\\Boolean.csproj|solutionrelative:boolean\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B831C6-BE56-4857-BD78-B8AD7B60A41F}|String\\String.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B831C6-BE56-4857-BD78-B8AD7B60A41F}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BA2828-FAC1-45A6-AAB0-84FA89A27627}|Math\\Math.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BA2828-FAC1-45A6-AAB0-84FA89A27627}|Math\\Math.csproj|solutionrelative:math\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BB415B-5870-4B73-966C-B3DEA56142A8}|Comparision\\Operators.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\comparision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BB415B-5870-4B73-966C-B3DEA56142A8}|Comparision\\Operators.csproj|solutionrelative:comparision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88E31C97-B868-4E4F-8046-A518B33CA086}|userInput\\userInput.csproj|C:\\Users\\Veetrag\\source\\repos\\Day1\\userinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88E31C97-B868-4E4F-8046-A518B33CA086}|userInput\\userInput.csproj|solutionrelative:userinput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAE94420-FD10-4CBD-8ED2-E79CE14F7009}|Day1\\Day1.csproj|d:\\.net\\experiment\\helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7172F9F-C564-4088-9756-1D988B656E25}|demo2\\demo2.csproj|d:\\.net\\experiment\\typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\while\\Program.cs",
+              "RelativeDocumentMoniker": "while\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\while\\Program.cs",
+              "RelativeToolTip": "while\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:03:48.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\switch\\Program.cs",
+              "RelativeDocumentMoniker": "switch\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\switch\\Program.cs",
+              "RelativeToolTip": "switch\\Program.cs",
+              "ViewState": "AgIAAAgAAACAZmZmZmb2vxMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T08:01:34.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\ifelse\\Program.cs",
+              "RelativeDocumentMoniker": "ifelse\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\ifelse\\Program.cs",
+              "RelativeToolTip": "ifelse\\Program.cs",
+              "ViewState": "AgIAAA8AAABgAAAAAMAowBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:51:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Boolean\\Program.cs",
+              "RelativeDocumentMoniker": "Boolean\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Boolean\\Program.cs",
+              "RelativeToolTip": "Boolean\\Program.cs",
+              "ViewState": "AgIAAAYAAADgmZmZmdkhwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T07:45:04.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\String\\Program.cs",
+              "RelativeDocumentMoniker": "String\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\String\\Program.cs",
+              "RelativeToolTip": "String\\Program.cs",
+              "ViewState": "AgIAACQAAACAaGZmZuYSwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:58:55.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Math\\Program.cs",
+              "RelativeDocumentMoniker": "Math\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Math\\Program.cs",
+              "RelativeToolTip": "Math\\Program.cs",
+              "ViewState": "AgIAAAQAAADgNDMzMzMLwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:43:29.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Comparision\\Program.cs",
+              "RelativeDocumentMoniker": "Comparision\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Comparision\\Program.cs",
+              "RelativeToolTip": "Comparision\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:45:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Arithmetic\\Program.cs",
+              "RelativeDocumentMoniker": "Arithmetic\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\Arithmetic\\Program.cs",
+              "RelativeToolTip": "Arithmetic\\Program.cs",
+              "ViewState": "AgIAAAMAAAAgzczMzAwswAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:28:42.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Veetrag\\source\\repos\\Day1\\userInput\\Program.cs",
+              "RelativeDocumentMoniker": "userInput\\Program.cs",
+              "ToolTip": "C:\\Users\\Veetrag\\source\\repos\\Day1\\userInput\\Program.cs",
+              "RelativeToolTip": "userInput\\Program.cs",
+              "ViewState": "AgIAAAoAAACAmZmZmZklwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T07:06:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TypeCasting.cs",
+              "DocumentMoniker": "D:\\.net\\Experiment\\TypeCasting.cs",
+              "ToolTip": "D:\\.net\\Experiment\\TypeCasting.cs",
+              "ViewState": "AgIAAA0AAAAAMjMzMzPjvwsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:51:23.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HelloWorld.cs",
+              "DocumentMoniker": "D:\\.net\\Experiment\\HelloWorld.cs",
+              "ToolTip": "D:\\.net\\Experiment\\HelloWorld.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T06:37:19.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

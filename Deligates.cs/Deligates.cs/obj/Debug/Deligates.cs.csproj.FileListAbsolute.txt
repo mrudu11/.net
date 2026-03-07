@@ -1,0 +1,7 @@
+D:\.net\class\Deligates.cs\Deligates.cs\obj\Debug\Deligates.cs.csproj.AssemblyReference.cache
+D:\.net\class\Deligates.cs\Deligates.cs\obj\Debug\Deligates.cs.csproj.CoreCompileInputs.cache
+D:\.net\class\Deligates.cs\Deligates.cs\bin\Debug\Deligates.cs.exe.config
+D:\.net\class\Deligates.cs\Deligates.cs\bin\Debug\Deligates.cs.exe
+D:\.net\class\Deligates.cs\Deligates.cs\bin\Debug\Deligates.cs.pdb
+D:\.net\class\Deligates.cs\Deligates.cs\obj\Debug\Deligates.cs.exe
+D:\.net\class\Deligates.cs\Deligates.cs\obj\Debug\Deligates.cs.pdb

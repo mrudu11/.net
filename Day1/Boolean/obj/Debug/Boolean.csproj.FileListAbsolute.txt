@@ -1,0 +1,7 @@
+C:\Users\Veetrag\source\repos\Day1\Boolean\bin\Debug\Boolean.exe.config
+C:\Users\Veetrag\source\repos\Day1\Boolean\bin\Debug\Boolean.exe
+C:\Users\Veetrag\source\repos\Day1\Boolean\bin\Debug\Boolean.pdb
+C:\Users\Veetrag\source\repos\Day1\Boolean\obj\Debug\Boolean.csproj.AssemblyReference.cache
+C:\Users\Veetrag\source\repos\Day1\Boolean\obj\Debug\Boolean.csproj.CoreCompileInputs.cache
+C:\Users\Veetrag\source\repos\Day1\Boolean\obj\Debug\Boolean.exe
+C:\Users\Veetrag\source\repos\Day1\Boolean\obj\Debug\Boolean.pdb

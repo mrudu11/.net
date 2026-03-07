@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\class\\Deligates.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A312175A-41FB-4CF5-A071-6951B01E2B8A}|Deligates.cs\\Deligates.cs.csproj|d:\\.net\\class\\deligates.cs\\deligates.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A312175A-41FB-4CF5-A071-6951B01E2B8A}|Deligates.cs\\Deligates.cs.csproj|solutionrelative:deligates.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\class\\Deligates.cs\\Deligates.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Deligates.cs\\Program.cs",
+              "ToolTip": "D:\\.net\\class\\Deligates.cs\\Deligates.cs\\Program.cs",
+              "RelativeToolTip": "Deligates.cs\\Program.cs",
+              "ViewState": "AgIAABwAAADAZ2ZmZuYZwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:34:26.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

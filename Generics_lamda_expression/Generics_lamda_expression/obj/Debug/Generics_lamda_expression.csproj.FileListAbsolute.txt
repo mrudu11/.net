@@ -1,0 +1,7 @@
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\bin\Debug\Generics_lamda_expression.exe.config
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\bin\Debug\Generics_lamda_expression.exe
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\bin\Debug\Generics_lamda_expression.pdb
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\obj\Debug\Generics_lamda_expression.csproj.AssemblyReference.cache
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\obj\Debug\Generics_lamda_expression.csproj.CoreCompileInputs.cache
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\obj\Debug\Generics_lamda_expression.exe
+D:\.net\class\Generics_lamda_expression\Generics_lamda_expression\obj\Debug\Generics_lamda_expression.pdb

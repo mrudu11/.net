@@ -1,0 +1,7 @@
+C:\Users\Veetrag\source\repos\Day1\userInput\bin\Debug\userInput.exe.config
+C:\Users\Veetrag\source\repos\Day1\userInput\bin\Debug\userInput.exe
+C:\Users\Veetrag\source\repos\Day1\userInput\bin\Debug\userInput.pdb
+C:\Users\Veetrag\source\repos\Day1\userInput\obj\Debug\userInput.csproj.AssemblyReference.cache
+C:\Users\Veetrag\source\repos\Day1\userInput\obj\Debug\userInput.csproj.CoreCompileInputs.cache
+C:\Users\Veetrag\source\repos\Day1\userInput\obj\Debug\userInput.exe
+C:\Users\Veetrag\source\repos\Day1\userInput\obj\Debug\userInput.pdb

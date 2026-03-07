@@ -1,0 +1,7 @@
+D:\.net\class\Day2_lab\Day2_lab\bin\Debug\Day2_lab.exe.config
+D:\.net\class\Day2_lab\Day2_lab\bin\Debug\Day2_lab.exe
+D:\.net\class\Day2_lab\Day2_lab\bin\Debug\Day2_lab.pdb
+D:\.net\class\Day2_lab\Day2_lab\obj\Debug\Day2_lab.csproj.AssemblyReference.cache
+D:\.net\class\Day2_lab\Day2_lab\obj\Debug\Day2_lab.csproj.CoreCompileInputs.cache
+D:\.net\class\Day2_lab\Day2_lab\obj\Debug\Day2_lab.exe
+D:\.net\class\Day2_lab\Day2_lab\obj\Debug\Day2_lab.pdb

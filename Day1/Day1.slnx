@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="Arithmetic/Arithmetic.csproj" Id="7be39bec-a74e-44d2-970c-ee61608b9a19" />
+  <Project Path="Boolean/Boolean.csproj" Id="587b17e4-da50-4913-9417-995c6afd4aa6" />
+  <Project Path="Comparision/Operators.csproj" Id="01bb415b-5870-4b73-966c-b3dea56142a8" />
+  <Project Path="Day1/Day1.csproj" Id="aae94420-fd10-4cbd-8ed2-e79ce14f7009" />
+  <Project Path="demo2/demo2.csproj" Id="f7172f9f-c564-4088-9756-1d988b656e25" />
+  <Project Path="ifelse/ifelse.csproj" Id="349426af-53e7-46b5-b1a8-434e591baa05" />
+  <Project Path="Math/Math.csproj" Id="32ba2828-fac1-45a6-aab0-84fa89a27627" />
+  <Project Path="String/String.csproj" Id="30b831c6-be56-4857-bd78-b8ad7b60a41f" />
+  <Project Path="switch/switch.csproj" Id="f1d3ba14-4ff2-4386-9d9f-caa62a6b28a5" />
+  <Project Path="userInput/userInput.csproj" Id="88e31c97-b868-4e4f-8046-a518b33ca086" />
+  <Project Path="while/while.csproj" Id="546d15f4-dae0-46af-a07b-c22846fe0a8d" />
+</Solution>

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\class\\Generics_lamda_expression\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DFBE2C1-03BD-493D-93F5-A15BA2C08F3D}|Lanbda\\Lanbda.csproj|d:\\.net\\class\\generics_lamda_expression\\lanbda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DFBE2C1-03BD-493D-93F5-A15BA2C08F3D}|Lanbda\\Lanbda.csproj|solutionrelative:lanbda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD74765B-9838-4E67-9DF3-1D080434A2B2}|Generics_lamda_expression\\Generics_lamda_expression.csproj|d:\\.net\\class\\generics_lamda_expression\\generics_lamda_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD74765B-9838-4E67-9DF3-1D080434A2B2}|Generics_lamda_expression\\Generics_lamda_expression.csproj|solutionrelative:generics_lamda_expression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\class\\Generics_lamda_expression\\Lanbda\\Program.cs",
+              "RelativeDocumentMoniker": "Lanbda\\Program.cs",
+              "ToolTip": "D:\\.net\\class\\Generics_lamda_expression\\Lanbda\\Program.cs",
+              "RelativeToolTip": "Lanbda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:50:37.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\class\\Generics_lamda_expression\\Generics_lamda_expression\\Program.cs",
+              "RelativeDocumentMoniker": "Generics_lamda_expression\\Program.cs",
+              "ToolTip": "D:\\.net\\class\\Generics_lamda_expression\\Generics_lamda_expression\\Program.cs",
+              "RelativeToolTip": "Generics_lamda_expression\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAopmZmZkGwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:22:50.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
