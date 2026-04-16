@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet\\Lab\\Exp06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|d:\\dotnet\\lab\\exp06\\crm_mvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|solutionrelative:crm_mvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|d:\\dotnet\\lab\\exp06\\crm_mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|solutionrelative:crm_mvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|d:\\dotnet\\lab\\exp06\\crm_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BD40D4-0502-45B6-83B1-5DFA56C7D3D3}|CRM_MVC\\CRM_MVC.csproj|solutionrelative:crm_mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM_MVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CRM_MVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-30T07:54:29.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CRM_MVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CRM_MVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:51:44.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CRM_MVC\\Models\\Customer.cs",
+              "ToolTip": "D:\\Dotnet\\Lab\\Exp06\\CRM_MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "CRM_MVC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:50:56.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
