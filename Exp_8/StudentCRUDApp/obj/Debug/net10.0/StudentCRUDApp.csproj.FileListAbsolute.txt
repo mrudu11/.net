@@ -1,0 +1,5 @@
+D:\.net\Experiment\Exp_8\StudentCRUDApp\obj\Debug\net10.0\StudentCRUDApp.csproj.AssemblyReference.cache
+D:\.net\Experiment\Exp_8\StudentCRUDApp\obj\Debug\net10.0\StudentCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Experiment\Exp_8\StudentCRUDApp\obj\Debug\net10.0\StudentCRUDApp.AssemblyInfoInputs.cache
+D:\.net\Experiment\Exp_8\StudentCRUDApp\obj\Debug\net10.0\StudentCRUDApp.AssemblyInfo.cs
+D:\.net\Experiment\Exp_8\StudentCRUDApp\obj\Debug\net10.0\StudentCRUDApp.csproj.CoreCompileInputs.cache
