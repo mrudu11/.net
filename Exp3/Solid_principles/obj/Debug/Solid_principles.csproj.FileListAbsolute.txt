@@ -1,0 +1,7 @@
+D:\Dotnet\Practical\Solid_principles\bin\Debug\Solid_principles.exe.config
+D:\Dotnet\Practical\Solid_principles\bin\Debug\Solid_principles.exe
+D:\Dotnet\Practical\Solid_principles\bin\Debug\Solid_principles.pdb
+D:\Dotnet\Practical\Solid_principles\obj\Debug\Solid_principles.csproj.AssemblyReference.cache
+D:\Dotnet\Practical\Solid_principles\obj\Debug\Solid_principles.csproj.CoreCompileInputs.cache
+D:\Dotnet\Practical\Solid_principles\obj\Debug\Solid_principles.exe
+D:\Dotnet\Practical\Solid_principles\obj\Debug\Solid_principles.pdb
